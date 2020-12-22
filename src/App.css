@@ -1,0 +1,43 @@
+.app {
+  font-family: sans-serif
+}
+
+.appTitle {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 4%;
+}
+
+.search {
+  padding: 4px;
+  background: grey;
+  text-align: center;
+  font-weight: bold;
+}
+
+.filter {
+  padding: 4px;
+  background: darkgrey;
+  text-align: center;
+  font-weight: bold;
+}
+
+.group {
+  flex-direction: row;
+  display: flex;
+  border-style: solid;
+  border-width: 3px;
+  border-color: darkgrey;
+  border-radius: 10px;
+  margin: 4px;
+}
+
+.image {
+  flex: 1;
+}
+
+.info {
+  flex: 2;
+}
+

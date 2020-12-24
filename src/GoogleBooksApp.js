@@ -3,7 +3,7 @@ import Filter from './Filter';
 import Search from './Search';
 import Results from './Results';
 
-const APIKey = 'AIzaSyCWEShQjIuA58Lx5l2qCsxUEE3txLdagog';
+const APIKey = 'XXXX';
 
 export default class GoogleBooksApp extends Component {
     state={
